@@ -1,0 +1,18 @@
+Please bookmark the following link to later monitor/retrieve results:
+
+http://iqtree.cibiv.univie.ac.at/?user=guest&jobid=240913190155
+
+If you want to monitor the progress, click on Run Log above. If you hit QUERY STATUS, the page is reloaded.
+You can download IQ-TREE and run it locally with the command-line:
+path_to_iqtree -s MSA_fasta.fasta -m TEST -bb 1000 -alrt 1000
+
+Note: The CPU time limit is 24 hours and RAM limit is 1GB. Your job will be stopped if it exceeds these limits.
+(In that case, please download the stopped job and use the above command-line to resume the run from the
+last checkpoint on your local PC as described here.)
+
+
+Job has FINISHED! Detailed analysis can be found in the Full Result tab.
+You can click on DOWNLOAD SELECTED JOBS to retrieve all result files.
+
+The tree below was visualized with ete-view.
+Support values written on the branches: SH-aLRT support (%) / ultrafast bootstrap support (%)
