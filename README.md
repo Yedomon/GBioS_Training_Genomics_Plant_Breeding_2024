@@ -7,15 +7,15 @@ This training covered:
  - RNA seq retrieval and analysis using galaxy platform,
  - NCBI database usage for homologuous sequence detection and phylogeneti tree construction.
 
-Section 1: Introduction to Bioinformatics
+## Section 1: Introduction to Bioinformatics
 
 The slides for a theorical introduction to Bioinformatics is available here.
 
-Section 2: A practical introduction to Shell
+## Section 2: A practical introduction to Shell
 
-Section 3: RNA-Seq Data acquisition and analysis using galaxy
+## Section 3: RNA-Seq Data acquisition and analysis using galaxy
 
-Section 4: NCBI database usage for homologuous sequence detection and phylogeneti tree construction.
+## Section 4: NCBI database usage for homologuous sequence detection and phylogeneti tree construction.
 
 
 
