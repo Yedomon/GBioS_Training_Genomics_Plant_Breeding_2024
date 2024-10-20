@@ -2,6 +2,8 @@
 
 Welcome to the GBIOS genomics training.
 
+![img](https://github.com/Yedomon/training/blob/main/Visuel1_Formation%20r%C3%A9gionale%20en%20g%C3%A9nomique%20et%20en%20s%C3%A9lection%20v%C3%A9g%C3%A9tale.jpg)
+
 This training covered:
  - Introduction to shell,
  - RNA seq retrieval and analysis using galaxy platform,
