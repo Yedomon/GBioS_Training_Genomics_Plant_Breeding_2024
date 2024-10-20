@@ -7,15 +7,25 @@ Welcome to the GBIOS genomics training.
 This training covered:
  - Introduction to shell,
  - RNA seq retrieval and analysis using galaxy platform,
- - NCBI database usage for homologuous sequence detection and phylogeneti tree construction.
+ - NCBI database usage for homologous sequence detection and phylogenetic tree construction.
+
+
+
+## Before joining this training
+
+Create your GitHub account at https://github.com/
+Create your Galaxy account at https://usegalaxy.eu/
+Sign in to the Replit webserver environment at https://replit.com/
+
+
 
 ## Section 1: Introduction to Bioinformatics
 
-The slides for a theorical introduction to Bioinformatics is available here.
+The slides for a theoretical introduction to Bioinformatics is available here.
 
-## Section 2: A practical introduction to Shell
+## Section 2: A Practical Introduction to Shell
 
-## Section 3: RNA-Seq Data acquisition and analysis using galaxy
+## Section 3: RNA-Seq Data Acquisition and Analysis using Galaxy
 
 ## Section 4: NCBI database usage for homologuous sequence detection and phylogeneti tree construction.
 
