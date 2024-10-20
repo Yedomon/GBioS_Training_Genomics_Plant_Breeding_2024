@@ -13,9 +13,9 @@ This training covered:
 
 ## Before joining this training
 
-Create your GitHub account at https://github.com/
-Create your Galaxy account at https://usegalaxy.eu/
-Sign in to the Replit webserver environment at https://replit.com/
+- Create your GitHub account at https://github.com/
+- Create your Galaxy account at https://usegalaxy.eu/
+- Sign in to the Replit webserver environment at https://replit.com/
 
 
 
