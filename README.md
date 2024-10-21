@@ -29,6 +29,8 @@ The slides for a theoretical introduction to Bioinformatics is available here.
 
 ## Section 4: NCBI database usage for homologuous sequence detection and phylogeneti tree construction.
 
+The slides are available [here](https://github.com/Yedomon/training/blob/main/Section04/TP_Section04.pptx)
+
 
 
 
