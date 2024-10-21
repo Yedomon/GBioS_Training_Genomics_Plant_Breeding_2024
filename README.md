@@ -27,7 +27,7 @@ The slides for a theoretical introduction to Bioinformatics is available here.
 
 ## Section 3: RNA-Seq Data Acquisition and Analysis using Galaxy
 
-## Section 4: NCBI database usage for homologuous sequence detection and phylogeneti tree construction.
+## Section 4: NCBI database usage for homologous sequence detection and phylogenetic tree construction.
 
 The slides are available [here](https://github.com/Yedomon/training/blob/main/Section04/TP_Section04.pptx)
 
