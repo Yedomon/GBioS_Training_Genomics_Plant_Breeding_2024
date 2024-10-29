@@ -14,6 +14,7 @@ This training covered:
 ## Before joining this training
 
 - Create your GitHub account at https://github.com/
+- Install Git for Windows at https://gitforwindows.org/
 - Create your Galaxy account at https://usegalaxy.eu/
 - Sign in to the Replit webserver environment at https://replit.com/
 
