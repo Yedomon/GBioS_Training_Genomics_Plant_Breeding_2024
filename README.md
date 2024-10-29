@@ -21,7 +21,7 @@ This training covered:
 
 ## Section 1: Introduction to Bioinformatics
 
-The slides for a theoretical introduction to Bioinformatics is available here.
+The slides for a theoretical introduction to Bioinformatics is available [here](https://github.com/Yedomon/training/blob/main/Section01/001.pptx).
 
 ## Section 2: A Practical Introduction to Shell
 
