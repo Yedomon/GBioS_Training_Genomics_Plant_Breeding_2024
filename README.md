@@ -26,9 +26,11 @@ The slides for a theoretical introduction to Bioinformatics is available [here](
 
 ## Section 2: A Practical Introduction to Shell
 
-The slides for this session are available [Here](https://github.com/Yedomon/training/blob/main/Section02/002.pptx)
+The slides for this session are available [here](https://github.com/Yedomon/training/blob/main/Section02/002.pptx)
 
 ## Section 3: RNA-Seq Data Acquisition and Analysis using Galaxy
+
+The slides are available [here]()
 
 ## Section 4: NCBI database usage for homologous sequence detection and phylogenetic tree construction.
 
