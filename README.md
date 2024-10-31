@@ -47,7 +47,7 @@ The slides are available [here](https://github.com/Yedomon/training/blob/main/Se
 - > Objective 2: Conduct multiple sequence alignment
 - > Objective 3: Infere of phylogenetic tree
 
-The slides are available [here](https://github.com/Yedomon/training/blob/main/Section04/Section04_Hands_on_session.pptx)
+The slides are available [here](https://github.com/Yedomon/training/blob/main/Section04/004.pptx)
 
 
 
