@@ -44,7 +44,7 @@ The slides are available [here](https://github.com/Yedomon/training/blob/main/Se
 
 - > Objective 1:  Use a public database to retrieve homologous sequences
 - > Objective 2: Conduct multiple sequence alignment
-- > Objective 3: Infere of phylogenetic tree
+- > Objective 3: Infer a phylogenetic tree
 
 The slides are available [here](https://github.com/Yedomon/training/blob/main/Section04/004.pptx)
 
