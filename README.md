@@ -6,7 +6,7 @@ Welcome to the GBIOS genomics training.
 
 This training covered:
  - Introduction to shell,
- - RNA seq retrieval and analysis using galaxy platform,
+ - RNA seq retrieval and analysis using [DIANE package](https://diane.bpmp.inrae.fr/),
  - NCBI database usage for homologous sequence detection and phylogenetic tree construction.
 
 
@@ -15,7 +15,6 @@ This training covered:
 
 - Create your GitHub account at https://github.com/
 - Install Git for Windows at https://gitforwindows.org/
-- Create your Galaxy account at https://usegalaxy.eu/
 - Sign in to the Replit webserver environment at https://replit.com/
 
 
