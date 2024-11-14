@@ -13,10 +13,6 @@ library(pheatmap)
 
 ### Data importation
 
-data_count = read.table("C:/Users/ange_/Downloads/GBIOS/Section03/sesame_count.txt", header = TRUE, sep = "\t")
-
-
-
 data_count = read.csv("C:/Users/ange_/Downloads/GBIOS/Section03/sesame_count.csv", header = TRUE, sep = ",", row.names = 1)
 
 
