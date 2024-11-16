@@ -6,7 +6,7 @@ Welcome to the GBIOS genomics training.
 
 This training covered:
  - Introduction to shell,
- - RNA seq retrieval and analysis using [DIANE package](https://diane.bpmp.inrae.fr/),
+ - RNA seq retrieval and analysis from mapping to differential expression analyses,
  - NCBI database usage for homologous sequence detection and phylogenetic tree construction.
 
 
