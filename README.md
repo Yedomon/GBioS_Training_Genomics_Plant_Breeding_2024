@@ -15,8 +15,7 @@ This training covered:
 
 - Create your GitHub account at https://github.com/
 - Install Git for Windows at https://gitforwindows.org/
-- Sign in to the Replit webserver environment at https://replit.com/
-
+- Install WSL by typing in your Windows PowerShell *wsl --install*
 
 
 ## Section 1: Introduction to Bioinformatics
