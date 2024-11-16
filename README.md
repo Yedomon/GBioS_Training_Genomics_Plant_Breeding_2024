@@ -33,7 +33,7 @@ The slides for this session are available [here](https://github.com/Yedomon/trai
 
 - > Objective 1: How to use a public database to retrieve RNA-Seq data
 
-- > Objective 1: RNA-Seq data analysis in command line fashion (From data QC to abundance estimation)
+- > Objective 2: RNA-Seq data analysis in command line fashion (From data QC to abundance estimation)
 
 - > Objective 3: DEG analysis using [DESeq2 package](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 
