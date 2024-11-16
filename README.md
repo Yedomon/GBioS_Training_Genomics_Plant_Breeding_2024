@@ -36,8 +36,8 @@ The slides for this session are available [here](https://github.com/Yedomon/trai
 
 - > Objective 3: DEG analysis using [DESeq2 package](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 
-The slides are available [here](https://github.com/Yedomon/training/blob/main/Section03/003.pdf)
-The R script along with the accompanied data are availabke [here](https://github.com/Yedomon/GBioS_Training_Genomics_Plant_Breeding_2024/tree/main/Section03/deg_work)
+- The slides are available [here](https://github.com/Yedomon/training/blob/main/Section03/003.pdf)
+- The R script along with the accompanied data are availabke [here](https://github.com/Yedomon/GBioS_Training_Genomics_Plant_Breeding_2024/tree/main/Section03/deg_work)
 
 
 ## Section 4: NCBI database usage for homologous sequence detection and phylogenetic tree construction.
