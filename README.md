@@ -2,7 +2,7 @@
 
 Welcome to the GBIOS genomics training.
 
-![img](https://github.com/Yedomon/training/blob/main/Visuel1_Formation%20r%C3%A9gionale%20en%20g%C3%A9nomique%20et%20en%20s%C3%A9lection%20v%C3%A9g%C3%A9tale.jpg)
+![img](https://github.com/Yedomon/GBioS_Training_Genomics_Plant_Breeding_2024/blob/main/visual.jpg)
 
 This training covered:
  - Introduction to shell,
